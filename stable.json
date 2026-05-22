@@ -2,9 +2,9 @@
   "channel": "stable",
   "version": "0.8.4",
   "master_url": "https://raw.githubusercontent.com/BastienTHOREZ/noosh_fw_ota/main/releases/noosh_fw-master-0.8.4.bin",
-  "master_sha256": "a17facd7caa0e55f72c9fe91ee7366827d6c6993e0d0e0153816acb59a839551",
+  "master_sha256": "5a60af004fe3e939048937850b41df4a869b3a430a34c7126d5118f95bb8631a",
   "master_size": 1967344,
   "slave_url": "https://raw.githubusercontent.com/BastienTHOREZ/noosh_fw_ota/main/releases/noosh_fw-slave-0.8.4.bin",
-  "slave_sha256": "31815259b27f9d865d6f609d8948663190229e54f48da5f42a49b86d9a199fad",
+  "slave_sha256": "76f0571e9e5233c31b62c8385cea99d416175bbcea8fdf23e0c373dd7eea5141",
   "slave_size": 1564704
 }
