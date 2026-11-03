@@ -1,11 +1,11 @@
 {
-  "version": "0.9.5",
-  "master_url": "https://raw.githubusercontent.com/BastienTHOREZ/noosh_fw_ota/main/releases/line_3/0.9.5/5601230606943c92-5302cfcd4e605ef4/master.bin",
-  "master_size": 2015296,
-  "master_sha256": "5601230606943c920fc71cecff77990a0e7142ac8ed37f05b42c3218d08ea83d",
-  "master_elf_sha256": "9a2f67c2cf4ce2e8d2f7f4d049fad6708911b808d73d80c75a6bd67c88fd3270",
-  "slave_url": "https://raw.githubusercontent.com/BastienTHOREZ/noosh_fw_ota/main/releases/line_3/0.9.5/5601230606943c92-5302cfcd4e605ef4/slave.bin",
-  "slave_size": 1578096,
-  "slave_sha256": "5302cfcd4e605ef4f91b45efec15346ae0d3dd5594c516b7b4b56309ebc41c55",
-  "slave_elf_sha256": "fdd455826249beb9e1419e86518889f505b337cfcf8a04acb2836a6c28d54710"
+  "version": "0.9.7",
+  "master_url": "https://raw.githubusercontent.com/BastienTHOREZ/noosh_fw_ota/main/releases/line_3/0.9.7/98800ffff0724cbe-c155ed31513c8e31/master.bin",
+  "master_size": 2016448,
+  "master_sha256": "98800ffff0724cbea3fd2bfe3605cfa58931fe07927a8638d83c9c8bd284fef7",
+  "master_elf_sha256": "dac22e39962d5fed54e5d688b0fbcbdb79dfbe2ee976617f1e10c74319637bd6",
+  "slave_url": "https://raw.githubusercontent.com/BastienTHOREZ/noosh_fw_ota/main/releases/line_3/0.9.7/98800ffff0724cbe-c155ed31513c8e31/slave.bin",
+  "slave_size": 1579136,
+  "slave_sha256": "c155ed31513c8e3150633f541e2f69e00ff570670199f6e292f8616c7b5a570e",
+  "slave_elf_sha256": "f9ad822b56231764369ce8e7b94f68d22da57a50a78d4088938e4536f3e12869"
 }
